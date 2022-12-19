@@ -2,6 +2,7 @@
 ### data
 movielens-1m from RecBole, released by RUC https://github.com/RUCAIBox/RecBole
 ### data process
+data_process.py, 先生成pkl文件，再执行模型训练
 seq2seq training strategy
 ```shell script
 实验数据集划分:将数据集划分成两部分,分别用于pretrain和hyper network train
