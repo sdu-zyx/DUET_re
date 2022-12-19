@@ -48,7 +48,7 @@ python runner_base_ft.py
 
 ###base 
 ```shell script
-python runner_base_ft.py
+python runner_base.py
 
 end2end, 使用所有的数据样例训练模型
 ```
